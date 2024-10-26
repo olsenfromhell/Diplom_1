@@ -13,8 +13,6 @@ import static org.mockito.Mockito.*;
 @RunWith(MockitoJUnitRunner.class)
 public class BurgerTest {
 
-    private Bun bun;
-
     @Mock
     private Bun bunMock;
 
